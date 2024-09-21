@@ -22,10 +22,8 @@ The CNN model is built using the Keras API in TensorFlow, with a sequential arch
 **2] Data Augmentation**
 The ImageDataGenerator from Keras is used to augment the image data, which helps in:
 
-Reducing overfitting
-
-Improving model generalization
-
+Reducing overfitting,
+Improving model generalization,
 Increasing the diversity of the training dataset
 
 
