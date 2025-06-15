@@ -61,3 +61,7 @@ From this project, I gained experience in:
 **5) Data visualization:** Using Matplotlib and Seaborn for data visualization
 
 **6) Data manipulation:** Using Pandas for data loading, preprocessing, and feature engineering
+
+## 🎥 Demo Video
+
+[Click to watch the demo](https://drive.google.com/file/d/17cEiCyDw2AiH9R5HtrUkHZ4RviawngRp/view?usp=drive_link)
